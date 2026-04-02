@@ -1,0 +1,4 @@
+Package   Version
+--------- -------
+pip       24.0
+pyperclip 1.11.0
